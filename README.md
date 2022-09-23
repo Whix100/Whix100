@@ -3,7 +3,10 @@ I'm a college student, programmer, and YouTuber, not always in that order. I kno
 
 ## 💻 Things I've Made
 - [Titan Discord Bot]()
-- [ColorSpace.Net Library]()
+- [Olympian Discord Bot]()
+- [ColorSpaces.NET Library]()
+- [VirtuMath.NET Library]()
+- [VirtuRoll.NET Library]()
 
 ## 🏅 Accomplishments
 - 3 Black Belts in Tae Kwon Do
