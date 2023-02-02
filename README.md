@@ -2,11 +2,11 @@
 I'm a college student, programmer, and YouTuber, not always in that order. I know how to use C#, HTML, Java, VB.NET, JavaScript, C, and more. I make programming tutorials for my programming help YouTube channel, [DevThread](https://www.youtube.com/channel/UCRWfJkBwv1eorDHo0ahsEKw).
 
 ## 💻 Things I've Made
-- [Titan Discord Bot]()
+- [Titan Discord Bot]() (Maintenance Only Mode)
 - [Olympian Discord Bot]()
 - [ColorSpaces.NET Library]()
-- [VirtuMath.NET Library]()
-- [VirtuRoll.NET Library]()
+- [VirtuMath.NET Library]() (Deprecated)
+- [VirtuRoll.NET Library]() (Deprecated)
 
 ## 🏅 Accomplishments
 - 3 Black Belts in Tae Kwon Do
