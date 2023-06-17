@@ -1,10 +1,6 @@
 # 👋 Hi, I’m @Whix100
 I'm a college student, programmer, and YouTuber, not always in that order. I know how to use C#, HTML, Java, VB.NET, JavaScript, C, and more. I make programming tutorials for my programming help YouTube channel, [DevThread](https://www.youtube.com/channel/UCRWfJkBwv1eorDHo0ahsEKw).
 
-## 💻 Things I've Made
-- [Titan Discord Bot]() (Maintenance Only Mode)
-- [Olympian Discord Bot]()
-
 ## 🏅 Accomplishments
 - 3 Black Belts in Tae Kwon Do
 - Eagle Scout
